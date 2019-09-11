@@ -1,11 +1,13 @@
 <?php 
 	$userName = "Martten 123";
 	$fulltimenow = date("d,m,Y H:i:s");
+	$hournow = date("H");
+	$partofday = "Hagune aeg";
 
-	alert("Hello mannnn");
-		function alert($msg) {
-			echo "<script type='text/javascript'>alert('$msg');</script>";
-			}
+	if($hournow < 8){
+		$partofday = "Hommik";
+	}
+
 ?>
 <html lang="en">
 
@@ -21,7 +23,7 @@
         <div class="content">
 				<?php echo "<h1>Leht avati ". $fulltimenow. "</h1>";?>
                 <button class="button button3">
-                        <a href="https://www.tlu.ee/" class="text"> <?php echo $userName;?></a>
+                        <a href="https://www.tlu.ee/" class="text"> <?php echo $partofday;?></a>
                 </button>
             
         </div>
