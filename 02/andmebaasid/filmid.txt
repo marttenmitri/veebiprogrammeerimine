@@ -1,7 +1,0 @@
-"Siin me oleme","1978","67","Komöödia","Eesti Telefilm","Sulev Nõmmik",
-"Don Juan Tallinnas","1971","65","Muusikafilm, komöödia","Tallinnfilm","Arvo Kruusement",
-"Hukkunud alpinisti hotell","1979","80","Detektiivfilm, Põnevusfilm, Ulmefilm","Tallinnfilm","Grigori Kromanov",
-"Kevade","1969","84","Komöödia, Draama","Tallinnfilm","Arvo Kruusement",
-"Viini postmark","1967","91","Komöödia","Tallinnfilm","Veljo Käsper",
-"Mehed ei nuta","1968","78","Komöödia","Eesti Telefilm","Sulev Nõmmik",
-"Noor pensionär","1972","80","Komöödia","Eesti Telefilm","Sulev Nõmmik",
