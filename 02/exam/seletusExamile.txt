@@ -1,0 +1,8 @@
+1. punkt on tehtud, kasutasin pildi nime mitte pildi id ja selle järgi määrasin pildi kuna kõik pildi nimed on unikaalsed
+
+2.kui kustutada ära lihtsalt kaustast pildid siis ei tule generic pilt aga kui teha uus kasutaja siis toimib
+
+kasutaja: test@test.com
+password: testtest1
+
+3. töötab nii, et viimane pilt mis sa laed jääb profiilipildikas aga profiilipiltide valik on tegematta
